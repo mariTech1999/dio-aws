@@ -26,7 +26,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 - **Descrição de caso de uso:** A API de recebimento de pedidos das farmácias tinha baixo tráfego durante a madrugada, mas mantinha servidores ligados 24/7. Migramos este microsserviço para AWS Lambda. Agora, o custo é zero quando não há requisições, e a cobrança é feita apenas pelos milissegundos de execução quando um pedido entra.
 
 ## Conclusão
-A implementação de ferramentas na empresa PharmaLog Solutions tem como esperado uma **redução de OPEX (Custos Operacionais) da ordem de 35%**, além de aumentar a elasticidade da infraestrutura para suportar a volatilidade do mercado farmacêutico. Recomenda-se a continuidade da utilização das ferramentas implementadas e a ativação do **AWS Cost Explorer** para monitoramento granular das despesas futuras.
+A implementação de ferramentas na empresa Distribuidora Pharma tem como esperado uma **redução de OPEX (Custos Operacionais) da ordem de 35%**, além de aumentar a elasticidade da infraestrutura para suportar a volatilidade do mercado farmacêutico. Recomenda-se a continuidade da utilização das ferramentas implementadas e a ativação do **AWS Cost Explorer** para monitoramento granular das despesas futuras.
 
 ## Anexos
 
